@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Cinzel:wght@500&display=swap');
+
+.title {
+  font-family: 'Cinzel', serif;
+  font-size: 32px;
+}
+
+.header {
+  font-family: 'Cinzel', serif;
+  font-size: 28px;
+}
+
+body {
+  background-color: #003851;
+  text-align: center;
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50;
+  margin-bottom: 50;
+  border: 5px solid white;
+}
+
+.paragraph {
+  font-family: 'Aref Ruqaa', serif;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
